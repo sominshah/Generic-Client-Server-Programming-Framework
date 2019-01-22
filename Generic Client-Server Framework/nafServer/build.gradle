@@ -1,0 +1,6 @@
+apply plugin: 'java'
+dependencies
+{
+compile files("c:/somin/itext/itextpdf-5.5.3.jar;c:/somin/itext/itext-pdfa-5.5.3.jar;c:/somin/itext/itext-xtra-5.5.3.jar")
+compile files("c:/somin/GSCSFramework1/nafCommon/build/libs/nafCommon.jar")
+}

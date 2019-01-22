@@ -1,0 +1,5 @@
+apply plugin: 'java'
+dependencies{
+compile files("c:\\somin\\GSCSFramework1\\nafServer\\build\\libs\\nafServer.jar")
+compile files("c:/somin/GSCSFramework1/nafCommon/build/libs/nafCommon.jar")
+}

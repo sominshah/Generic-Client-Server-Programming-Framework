@@ -1,0 +1,1 @@
+java -classpath c:\somin\GSCSFramework1\nafClient\build\libs\nafClient.jar;c:\somin\GSCSFramework1\nafCommon\build\libs\nafCommon.jar;build\libs\testcases.jar;. com.Main.Main
